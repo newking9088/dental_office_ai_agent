@@ -79,37 +79,43 @@ graph TD
 
 ### 5. Expected Benefits and ROI
 
-#### 5.1 Quantifiable Benefits
+#### 5.1 Hypothetical Mid-Size Practice Scenario
 ```
-Current Scenario:
-- Average denials: 100/month
-- Cost per denial: $50
-- Monthly loss: $5,000
-- Annual loss: $60,000
+Current Scenario (Based on Industry Averages):
+- Monthly claims: 500
+- Average denial rate: 9%
+- Monthly denied claims: 45
+- Average cost per denial: $25-$118
+- Monthly loss range: $1,125-$5,310
+- Estimated annual loss range: $13,500-$63,720
 
-With AI System:
-- Denial reduction: 27%
-- New monthly denials: 73
-- Monthly savings: $1,350
-- Annual savings: $16,200
+Potential With AI System:
+- Expected denial reduction: Up to 27% (industry benchmark)
+- New monthly denied claims estimate: 33
+- Monthly cost avoidance range: $300-$1,431
+- Projected annual savings range: $3,600-$17,172
 
-Additional Revenue Recovery:
-- Current lost claims (65%): $156,000/year
-- Recovery potential (40%): $62,400/year
+Additional Revenue Recovery Opportunity:
+- Currently unrecovered claims (65%): 29 claims/month
+- Recovery opportunity with automation: TBD based on practice
+- Potential monthly revenue recovery: Varies by procedure type
+- Projected annual revenue impact: To be determined by practice specifics
 
-Total Annual Benefit:
-- Direct savings: $16,200
-- Revenue recovery: $62,400
-- Total impact: $78,600/year
+Total Potential Annual Benefit:
+- Direct cost avoidance: $3,600-$17,172
+- Revenue recovery: Practice specific
+- Staff time savings: 4-6 hours daily
+- Total impact: To be determined based on practice metrics
 ```
 
 #### 5.2 Operational Improvements
-- 90% reduction in verification time
-- 85% decrease in manual verification tasks
-- 95% accuracy in eligibility checks
-- 24/7 verification capability
+- Verification Time: From the current 14 minutes per transaction to near real-time processing
+- Manual Tasks: From 4-6 hours daily to minimal human intervention required
+- Accuracy: Significant increase in eligibility check accuracy through automated validation
+- Availability: 24/7 verification capability vs. current business hours only
 
-### 6. Implementation Strategy
+
+### 6. System Integration & Deployment Plan
 
 #### 6.1 Phase 1: Foundation
 1. **System Integration**
