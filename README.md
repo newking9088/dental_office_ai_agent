@@ -1,4 +1,4 @@
-# 🦷 AI Dental Insurance Verification System
+# 🦷 DentaVerify AI: Intelligent Dental Insurance Assistant
 ## Transforming Insurance Verification Through Automation and Intelligence
 
 ### 1. Executive Summary
