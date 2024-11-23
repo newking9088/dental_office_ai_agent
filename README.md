@@ -1,7 +1,4 @@
-# dental_office_ai_agent
-🦷 Autonomous AI Agent for dental offices that conducts human-like phone interactions with insurance providers to verify benefits, eligibility, and process administrative tasks. Built with LLMs for natural language processing and automated workflow management.
-
-# AI Dental Insurance Verification System
+# 🦷 AI Dental Insurance Verification System
 ## Transforming Insurance Verification Through Automation and Intelligence
 
 ### 1. Executive Summary
@@ -172,8 +169,9 @@ Total Annual Benefit:
 ### 9. Conclusion
 The AI Dental Insurance Verification System addresses critical industry challenges by automating and optimizing the verification process. With potential savings of 14 minutes per transaction and the ability to prevent up to 90% of claim denials, the system offers significant ROI while improving operational efficiency and patient satisfaction. The combination of advanced AI technology with automated communication capabilities positions this solution as a transformative tool for modern dental practices.
 
-Would you like me to:
-1. Add more detailed cost analysis?
-2. Expand implementation timelines?
-3. Include specific workflow examples?
-4. Develop training protocols?
+### 10. References
+- [Coqui TTS](https://github.com/coqui-ai/TTS?tab=readme-ov-file)
+- [The True Cost of Insurance Denials and How Automated Verification can Help](https://issuu.com/brownst303/docs/nysdjaugsept23_final_1/s/32963189)
+- [What are Unnecessary Claim Errors costing you?](https://oncospark.com/what-are-unnecessary-claim-errors-costing-you/)
+- [The Impact of Patient Eligibility Verification Mistakes on Claims](https://www.veritable.app/blog/the-impact-of-patient-eligibility-verification-mistakes-on-claims/)
+- [Avoid the common eligibility verification errors that impact revenue](https://www.experian.com/blogs/healthcare/avoid-the-common-eligibility-verification-errors-that-impact-revenue/)
